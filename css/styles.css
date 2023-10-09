@@ -1,0 +1,35 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    padding: ;
+}
+.card {
+    background-color: hsl(0, 0%, 100%);
+    width: 20%;
+    border-radius: 5%;
+    margin: auto;
+    position: relative;
+    top: 80px;
+    
+
+}
+img {
+    border-radius: 5%;
+    width: 90%;
+    margin: 10px auto 0;
+}
+h3 {
+    font-family: sans-serif;
+    padding-top: 20px;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    color: hsl(218, 44%, 22%);
+}
+p {
+    font-family: sans-serif;
+    padding-bottom: 20px  ;
+
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
